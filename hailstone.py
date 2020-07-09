@@ -1,6 +1,6 @@
 # Author: Erik Blackowicz
 # Date: 7/8/20
-# Description: Fx take in integer and return the number of steps to reach 1 using hailstone sequence.
+# Description: Fx takes in integer and return the number of steps to reach 1 using hailstone sequence.
 
 def hailstone(num):
  '''Input an integer. Returns the number of steps to reach 1 following the
